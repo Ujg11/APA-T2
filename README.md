@@ -1,6 +1,6 @@
 # Segunda tarea de APA 2023: Manejo de números primos
 
-## Nom i cognoms
+## Nom i cognoms: Oriol Jiménez Garrich
 
 ## Fichero `primos.py`
 
